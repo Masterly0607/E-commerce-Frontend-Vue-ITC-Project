@@ -58,14 +58,14 @@ const router = createRouter({
           component: () => import('@/views/auth/ForgotPasswordPage.vue')
         },
         {
-          path: '/reset-passord',
+          path: '/reset-password',
           name: 'ResetPassword',
           component: () => import('@/views/auth/ResetPasswordPage.vue')
         },
         {
-          path: '/verify-email',
-          name: 'VerifyEmail',
-          component: () => import('@/views/auth/VerifyEmailPage.vue')
+          path: '/verify-otp',
+          name: 'VerifyOTP',
+          component: () => import('@/views/auth/VerifyOTPPage.vue')
         },
       ]
     },

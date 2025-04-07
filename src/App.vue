@@ -4,7 +4,9 @@
 
 <template>
   
-<div class="text-red-500">1</div>
+<div>
+  
+</div>
   <RouterView />
 </template>
 
