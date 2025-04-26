@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col ml-36">
+  <div class="flex flex-col">
     <div class="flex flex-col space-y-8">
       <div class="flex space-x-6 items-center ml-12">
         <img src="@/assets/admin_assets/order.png" alt="Orders" class="w-[36px]" />

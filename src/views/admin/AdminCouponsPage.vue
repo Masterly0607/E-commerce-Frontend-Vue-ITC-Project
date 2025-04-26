@@ -1,16 +1,16 @@
 <template>
-  <div class="flex flex-col ml-36">
-    <div class="flex flex-col space-y-8">
+  <div class="flex flex-col w-full">
+    <div class="flex flex-col space-y-8 w-full">
       <div class="flex space-x-6 items-center ml-12">
         <img src="@/assets/admin_assets/coupon.png" alt="Coupons" class="w-[36px]" />
         <p class="text-[32px] font-bold">Manage Coupons</p>
       </div>
-      <form class="flex text-[21px] px-10 py-6 border rounded-[3px] flex-col space-y-10 mr-3">
-        <div class="flex items-center space-x-2">
+      <form class="flex text-[21px] py-6 border rounded-[3px] flex-col space-y-10 px-5 flex-1">
+        <div class="flex items-center space-x-2 ml-5">
           <img src="@/assets/admin_assets/plus.png" alt="Plus Icon" class="w-[18px] h-[18px]" />
           <p>Add new Coupons</p>
         </div>
-        <div class="flex justify-between w-full space-x-16">
+        <div class="flex justify-between space-x-4">
           <div class="flex flex-col space-y-2 w-1/3">
             <label for="coupon_code" class="ml-4">Coupon Code</label>
             <input
@@ -49,7 +49,7 @@
     </div>
     <div class="flex flex-col space-y-5 w-full mt-14">
       <p class="text-[#158f46] text-4xl">Active Coupons</p>
-      <table class="table-auto border-collapse border border-gray-300 text-center mr-3">
+      <table class="table-auto border-collapse border border-gray-300 text-center">
         <thead>
           <tr class="bg-[#CAD5E3] w-full">
             <th class="px-4 py-2 border">Code</th>

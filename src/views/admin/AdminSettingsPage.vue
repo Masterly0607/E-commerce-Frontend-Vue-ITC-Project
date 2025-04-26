@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col ml-36 space-y-10">
+  <div class="flex flex-col space-y-10">
     <div class="flex flex-col space-y-8">
       <div class="flex space-x-6 items-center ml-12">
         <img src="@/assets/admin_assets/settings.png" alt="Settings" class="w-[36px]" />
