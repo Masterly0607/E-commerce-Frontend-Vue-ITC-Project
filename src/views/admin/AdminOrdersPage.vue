@@ -2,7 +2,7 @@
   <div class="flex flex-col ml-36">
     <div class="flex flex-col space-y-8">
       <div class="flex space-x-6 items-center ml-12">
-        <img src="@/assets/admin_assets/order.png" alt="Products" class="w-[36px]" />
+        <img src="@/assets/admin_assets/order.png" alt="Orders" class="w-[36px]" />
         <p class="text-[32px] font-bold">Manage Order</p>
       </div>
       <div class="flex space-x-6 text-[21px]">

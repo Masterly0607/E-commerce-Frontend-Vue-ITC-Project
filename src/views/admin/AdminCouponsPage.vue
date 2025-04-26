@@ -2,7 +2,7 @@
   <div class="flex flex-col ml-36">
     <div class="flex flex-col space-y-8">
       <div class="flex space-x-6 items-center ml-12">
-        <img src="@/assets/admin_assets/coupon.png" alt="Products" class="w-[36px]" />
+        <img src="@/assets/admin_assets/coupon.png" alt="Coupons" class="w-[36px]" />
         <p class="text-[32px] font-bold">Manage Coupons</p>
       </div>
       <form class="flex text-[21px] px-10 py-6 border rounded-[3px] flex-col space-y-10 mr-3">
