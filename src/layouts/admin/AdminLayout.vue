@@ -1,8 +1,6 @@
 <template>
-    <div>Admin Header</div>
-    <RouterView></RouterView>
+  <div>Admin Header</div>
+  <RouterView></RouterView>
 </template>
 
-<script setup>
-
-</script>
+<script setup></script>
