@@ -32,6 +32,7 @@ const router = createRouter({
         { path: 'users', name: 'AdminUsers', component: () => import('@/views/admin/AdminUsersPage.vue') },
         { path: 'products', name: 'AdminProducts', component: () => import('@/views/admin/AdminProductsPage.vue') },
         { path: 'categories', name: 'AdminCategories', component: () => import('@/views/admin/AdminCategoriesPage.vue') },
+        { path: 'orders', name: 'AdminOrders', component: () => import('@/views/admin/AdminOrdersPage.vue') },
         { path: 'coupons', name: 'AdminCoupons', component: () => import('@/views/admin/AdminCouponsPage.vue') },
         { path: 'settings', name: 'AdminSettings', component: () => import('@/views/admin/AdminSettingsPage.vue') },
       ]

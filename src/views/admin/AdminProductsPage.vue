@@ -67,7 +67,7 @@
       </table>
     </div>
     <div class="flex justify-center mt-5 space-x-3 items-center">
-      <div class="flex space-x-2 border px-5 py-2 rounded-[3px] bg-[#CAD5E3]">
+      <div class="flex space-x-2 border px-5 py-2 rounded-[3px] bg-[#CAD5E3] cursor-pointer">
         <img
           src="@/assets/admin_assets/arrow_left.png"
           alt="Arrow Left"
@@ -76,7 +76,7 @@
         <p>Prev</p>
       </div>
       <p class="text-[21px]">1 of 2</p>
-      <div class="flex space-x-2 border px-5 py-2 rounded-[3px] bg-[#CAD5E3]">
+      <div class="flex space-x-2 border px-5 py-2 rounded-[3px] bg-[#CAD5E3] cursor-pointer">
         <p>Next</p>
         <img
           src="@/assets/admin_assets/arrow_right.png"
