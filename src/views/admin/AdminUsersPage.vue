@@ -54,8 +54,8 @@
             <td class="px-4 py-2 border">Admin</td>
             <td class="px-4 py-2 border">
               <div class="flex justify-center space-x-2">
-                <p class="text-[#2563EB] cursor-pointer">Edit</p>
-                <p class="text-[#FF0000] cursor-pointer">Delete</p>
+                <p class="bg-[#2563EB] text-white cursor-pointer px-1 rounded-[3px]">Edit</p>
+                <p class="bg-[#FF0000] text-white cursor-pointer px-1 rounded-[3px]">Delete</p>
               </div>
             </td>
           </tr>
@@ -66,8 +66,8 @@
             <td class="px-4 py-2 border">Seller</td>
             <td class="px-4 py-2 border">
               <div class="flex justify-center space-x-2">
-                <p class="text-[#2563EB] cursor-pointer">Edit</p>
-                <p class="text-[#FF0000] cursor-pointer">Delete</p>
+                <p class="bg-[#2563EB] text-white cursor-pointer px-1 rounded-[3px]">Edit</p>
+                <p class="bg-[#FF0000] text-white cursor-pointer px-1 rounded-[3px]">Delete</p>
               </div>
             </td>
           </tr>
